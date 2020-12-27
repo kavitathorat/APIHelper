@@ -1,15 +1,22 @@
 PODS:
-  - APIHelper (0.1.0)
+  - Alamofire (4.9.1)
+  - APIHelper (0.1.0):
+    - Alamofire (~> 4.9.1)
 
 DEPENDENCIES:
   - APIHelper (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
 
 EXTERNAL SOURCES:
   APIHelper:
     :path: "../"
 
 SPEC CHECKSUMS:
-  APIHelper: 7a64e736650370f6367ad980030b4185c49126c8
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  APIHelper: b9baaf3c3cea8970fc06b19fff7a2c7cfd8b6535
 
 PODFILE CHECKSUM: 5796901416f43318de261bf1a613fef7bae5d86d
 
